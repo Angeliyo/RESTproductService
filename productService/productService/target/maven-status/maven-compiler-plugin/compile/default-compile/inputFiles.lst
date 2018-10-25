@@ -1,5 +1,7 @@
-C:\Desarrollo\Java\SpringBoot\REST\productService\src\main\java\com\example\springboot\rest\exception\ProductExceptionController.java
-C:\Desarrollo\Java\SpringBoot\REST\productService\src\main\java\com\example\springboot\rest\productService\Product.java
-C:\Desarrollo\Java\SpringBoot\REST\productService\src\main\java\com\example\springboot\rest\App.java
-C:\Desarrollo\Java\SpringBoot\REST\productService\src\main\java\com\example\springboot\rest\productService\ProductServiceController.java
-C:\Desarrollo\Java\SpringBoot\REST\productService\src\main\java\com\example\springboot\rest\exception\ProductNotfoundException.java
+C:\Users\aplaza\git\productService\productService\src\main\java\com\example\springboot\rest\productService\ProductServiceInterceptor.java
+C:\Users\aplaza\git\productService\productService\src\main\java\com\example\springboot\rest\productService\Product.java
+C:\Users\aplaza\git\productService\productService\src\main\java\com\example\springboot\rest\productService\ProductServiceInterceptorAppConfig.java
+C:\Users\aplaza\git\productService\productService\src\main\java\com\example\springboot\rest\exception\ProductNotfoundException.java
+C:\Users\aplaza\git\productService\productService\src\main\java\com\example\springboot\rest\App.java
+C:\Users\aplaza\git\productService\productService\src\main\java\com\example\springboot\rest\productService\ProductServiceController.java
+C:\Users\aplaza\git\productService\productService\src\main\java\com\example\springboot\rest\exception\ProductExceptionController.java

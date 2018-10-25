@@ -1,5 +1,7 @@
 com\example\springboot\rest\exception\ProductExceptionController.class
+com\example\springboot\rest\productService\ProductServiceInterceptorAppConfig.class
 com\example\springboot\rest\App.class
 com\example\springboot\rest\exception\ProductNotfoundException.class
 com\example\springboot\rest\productService\ProductServiceController.class
+com\example\springboot\rest\productService\ProductServiceInterceptor.class
 com\example\springboot\rest\productService\Product.class
