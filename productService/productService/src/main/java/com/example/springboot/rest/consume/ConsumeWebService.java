@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.example.springboot.rest.productService.Product;
+import com.example.springboot.rest.model.Product;
 
 
 
