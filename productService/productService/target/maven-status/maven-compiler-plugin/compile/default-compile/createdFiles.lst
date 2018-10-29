@@ -1,5 +1,6 @@
 com\example\springboot\rest\App.class
 com\example\springboot\rest\exception\ProductNotfoundException.class
+com\example\springboot\rest\App$1.class
 com\example\springboot\rest\consume\ConsumeWebService.class
 com\example\springboot\rest\file\FileDownloadController.class
 com\example\springboot\rest\exception\ProductExceptionController.class
@@ -7,6 +8,7 @@ com\example\springboot\rest\service\ProductService.class
 com\example\springboot\rest\service\ProductServiceImpl.class
 com\example\springboot\rest\controller\ProductServiceInterceptorAppConfig.class
 com\example\springboot\rest\controller\WebConfig.class
+com\example\springboot\rest\controller\ViewController.class
 com\example\springboot\rest\controller\ProductServiceController.class
 com\example\springboot\rest\controller\WebController.class
 com\example\springboot\rest\controller\SimpleFilter.class
